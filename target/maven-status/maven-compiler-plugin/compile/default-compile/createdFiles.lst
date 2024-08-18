@@ -1,0 +1,7 @@
+com/trestlework/config/KafkaConfig.class
+com/trestlework/producer/KafkaAvroProducer.class
+com/trestlework/controller/EventController.class
+com/trestlework/dto/Employee$Builder.class
+com/trestlework/KafkaSchemaRegistryApplication.class
+com/trestlework/dto/Employee.class
+com/trestlework/consumer/KafkaAvroConsumer.class

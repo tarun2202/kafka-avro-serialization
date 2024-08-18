@@ -1,0 +1,44 @@
+{
+  "namespace": "com.trestlework.dto",
+  "type": "record",
+  "name": "Employee",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "firstName",
+      "type": "string"
+    },
+    {
+      "default": "",
+      "name": "middleName",
+      "type": "string"
+    },
+    {
+      "name": "lastName",
+      "type": "string"
+    },
+    {
+      "default": "",
+      "name": "emailId",
+      "type": "string"
+    },
+    {
+      "default": "",
+      "name": "mobile",
+      "type": "string"
+    },
+    {
+      "default": "",
+      "name": "dob",
+      "type": "string"
+    },
+    {
+      "default": 20,
+      "name": "age",
+      "type": "int"
+    }
+  ]
+}

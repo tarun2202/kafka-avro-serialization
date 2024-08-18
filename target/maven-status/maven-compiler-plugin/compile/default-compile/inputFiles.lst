@@ -1,0 +1,6 @@
+/home/tarun-kumar/Documents/spring-kafka-avro-main/src/main/java/com/trestlework/KafkaSchemaRegistryApplication.java
+/home/tarun-kumar/Documents/spring-kafka-avro-main/src/main/java/com/trestlework/producer/KafkaAvroProducer.java
+/home/tarun-kumar/Documents/spring-kafka-avro-main/src/main/java/com/trestlework/dto/Employee.java
+/home/tarun-kumar/Documents/spring-kafka-avro-main/src/main/java/com/trestlework/consumer/KafkaAvroConsumer.java
+/home/tarun-kumar/Documents/spring-kafka-avro-main/src/main/java/com/trestlework/controller/EventController.java
+/home/tarun-kumar/Documents/spring-kafka-avro-main/src/main/java/com/trestlework/config/KafkaConfig.java
